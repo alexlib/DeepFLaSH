@@ -123,3 +123,4 @@ venv.bak/
 .idea/**/dbnavigator.xml
 .idea
 saved_models
+uv.lock
